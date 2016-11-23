@@ -91,6 +91,11 @@ a{text-decoration:none;color:#444;
     p{font-size: 24px;padding-top: 10px;}
     h2{font-size: 24px;font-weight: normal;padding-top: 10px;}
 }
+.title_x{padding-top: 20px;text-align: center;padding-bottom: 20px;
+    h1{font-size: 24px;font-weight: normal;padding-top: 10px;}
+    .time{text-align: center;font-size: 12px;padding: 20px 0;border-bottom: 1px solid #d6d6d6;margin-bottom: 20px;}
+    .p1{text-indent: 28px;line-height: 28px;font-size: 14px;padding: 5px 0;}
+}
 //tab部分
 .tab-left{position: relative;overflow: hidden;padding-bottom: 80px;
     .by{float: left;width: 46%;padding: 0 2%;position: relative;
@@ -294,7 +299,7 @@ a{text-decoration:none;color:#444;
     }
     .kf{
         img{padding: 10px 0;width: 100%;}
-        p{font-size: 16px;}
+        p{font-size: 14px;}
     }
 }
 .n-right{float: right;width:980px;margin-bottom: 40px;
