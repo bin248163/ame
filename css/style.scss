@@ -425,8 +425,8 @@ a{text-decoration:none;color:#444;
 .ne1{border-bottom:1px solid #d6d6d6;padding: 20px;overflow: hidden;
     h1{font-size: 20px;font-weight: normal;padding: 10px 0;}
     img{float: left;width: 229px;height: 114px;}
-    div{overflow: hidden;position: relative;height: 114px;
-        p{width: 680px;float: right;font-size: 14px;}
+    div{overflow: hidden;position: relative;height: 114px;width: 680px;float: right;
+        p{font-size: 14px;padding-bottom: 10px;max-height: 70px;overflow: hidden;}
         .n_more{float: right;font-size: 14px;position: absolute;bottom: 0;right: 0;}
     }
     
