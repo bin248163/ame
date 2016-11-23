@@ -206,7 +206,7 @@
 	</div>
 	<div class="service">
 		<img src="images/ls1_13.jpg" alt="" />
-		<a href="case-xx.asp" class="service-n">
+		<a href="teacher.asp" class="service-n">
 			<div class="time-w">
 				<div class="time">
 					<span>倩倩老师</span>市场部总监：
@@ -234,7 +234,7 @@
 
 	<div class="service">
 		<img src="images/ls3_13.jpg" alt="" />
-		<a href="case-xx.asp" class="service-n">
+		<a href="teacher.asp" class="service-n">
 			<div class="time-w">
 				<div class="time">
 					<span>杨钇老师</span> 技术总监：
@@ -262,7 +262,7 @@
 	</div>
 	<div class="service">
 		<img src="images/ls2.jpg" alt="" />
-		<a href="case-xx.asp" class="service-n">
+		<a href="teacher.asp" class="service-n">
 			<div class="time-w">
 				<div class="time">
 					<span>项燕老师</span> 明星讲师：
@@ -294,7 +294,7 @@
 	</div>
 	<div class="service">
 		<img src="images/ls4_13.jpg" alt="" />
-		<a href="case-xx.asp" class="service-n">
+		<a href="teacher.asp" class="service-n">
 			<div class="time-w">
 				<div class="time">
 					<span>娜娜老师</span> 运营总监：
@@ -321,7 +321,7 @@
 	</div>
 	<div class="service">
 		<img src="images/ls5_13.jpg" alt="" />
-		<a href="case-xx.asp" class="service-n">
+		<a href="teacher.asp" class="service-n">
 			<div class="time-w">
 				<div class="time">
 					<span>刘辽老师</span> 高级纹绣师：

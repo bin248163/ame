@@ -14,7 +14,7 @@
 		<div class="news_l">
 			<a href="" class="this">新闻动态</a>
 			<a href="">行业资讯</a>
-			<a href="">半永久解答</a>
+			<a href="question.asp">半永久解答</a>
 		</div>
 		<ul>
 			<li><i><img src="images/l1_03.jpg" alt="" /></i>

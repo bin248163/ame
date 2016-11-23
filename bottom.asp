@@ -61,7 +61,7 @@
 				<a href="http://bapingyun.com/" target="_blank">技术支持：北京霸屏科技</a>
 			</p>
 		</div>
-		<div class="ewm"><img src="images/code_23.jpg" alt="二维码" />
+		<div class="ewm"><img src="images/code_23.jpg" alt="二维码" /><img src="images/code1.jpg" alt="二维码" />
 			<p>扫一扫关注我们</p>
 		</div>
 	</div>
