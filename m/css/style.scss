@@ -1,7 +1,11 @@
 @charset "utf-8";//设置此项才能编译通过有中文的注释的scss文件
+/*!
+Author: 前小端
+Author URI: http://www.qianxiaoduan.com
+*/
 @import "Globalstyle.scss";//插入外部文件：全局样式
 
-$color:#0977de;//定义全局主色
+$color:#ff037b;//定义全局主色
 
 //可重用代码块,通过@include xxx调用 
 //css3动画过渡默认时间0.2s
@@ -21,18 +25,20 @@ a{text-decoration:none;color:#2b2b2b;}
 
 //导航部分
 .container{padding: 5rem 0;}
-.header{overflow: hidden;padding:1rem 1rem .3rem 1rem;position:fixed;top: 0;left: 0;background: #fff;z-index: 999;width: 32rem;
+.header{overflow: hidden;padding:0 1rem;position:fixed;top: 0;left: 0;background: #fff;z-index: 999;width: 32rem;height: 5rem;
    
 }
-.logo{width:3rem;position: absolute;top:1rem;left: 1rem;}
+.logo{width:25rem;position: absolute;top:.8rem;left: 1rem;
+    img{width: 100%;}
+}
 .form{float:right;overflow: hidden;width: 26rem;
     input{height: 3rem;background: #f5f5f5;border: 1px solid #eee;border-radius: 3rem;font-size: 1.2rem;width:17rem;float: left;padding: 0 2rem;margin: 0 1rem 0 0;}
     button{border: none;height: 2.8rem;background: #fff;width: 2.8rem;padding: .2rem .1rem 0 .1rem;}
     .i{width: 2.8rem;}
 }
-.nav{margin:0 1rem .3rem 1rem;overflow: hidden;
+.nav{margin:0 0 .3rem;overflow: hidden;
     ul{
-        li{line-height: 3rem;float: left;height: 3rem;text-align: center;width: 25%;position: relative;
+        li{line-height: 3rem;float: left;height: 3rem;text-align: center;width: 20%;position: relative;
             &:before{width: 90%;height: .2rem;background:#fff;left: 5%;bottom: 0;position: absolute;content: "";border-radius: .2rem .2rem 0 0;}
             a{font-size: 1.3rem;}
         }
@@ -42,67 +48,23 @@ a{text-decoration:none;color:#2b2b2b;}
         }
     }
 }
-.nav-index{overflow: hidden;padding: 1rem 0;
-    .nav-x{width: 25%;text-align: center;display: block;font-size: 1.2rem;float: left;padding: .5rem 0;
-        i{width: 50%;margin: 0 auto;}
+.nav-index{overflow: hidden;padding: 1.5rem 0 .5rem;border-bottom: 1px solid #d6d6d6;
+    img{width: 100%;}
+    .nav-x{width: 20%;text-align: center;display: block;font-size: 1.2rem;float: left;padding: .5rem 0;
+        i{width: 60%;margin: 0 auto .5rem;}
     }
 }
-.main{background: #fff;border-top: 1px solid #e6e9ee;background: #f5f5f5;
-    h1{font-size: 1.4rem;height:2rem;font-weight: normal;line-height:2rem;border-left:4px solid $color ;margin: 1rem 0;padding-left: 1rem;
-        span{color: $color;}
+.main{background: #fff;border-top: 1px solid #e6e9ee;background: #f5f5f5;}
+.teacher{overflow-x: auto;
+    .teacher-n{width: 125%;overflow: hidden;
+        div{text-align: center;width: 20%;float: left;
+            img{width: 100%;}
+            span{font-size: 1.2rem;}
+        }
     }
 }
-.main1{overflow: hidden;text-align: center;
-    h1{font-size: 1.5rem;padding-top: 1rem;}
-    h2{font-size: 1.4rem;font-weight: normal;padding-bottom: 1rem;}
-    
-}
-.list{float:left;width: 31.333%;margin: 0 1% 1rem;overflow: hidden;border-radius: .5rem;
-    div{height: 3.5rem;background: #4395e2;padding-top: .2rem;
-        p{font-size: 1.2rem;color: #fff;line-height: 1.6rem;}
-        span{color: #fff;font-size: 1.1rem;}
-    }
-}
-.con{overflow: hidden;background: #fff;}
-.pro-l{width:40%;float: left;border-top: 1px solid #e2e2e2;border-bottom: 1px solid #e2e2e2;height: 16.5rem;
-    h1{font-size: 1.3rem;border: none;padding: 1rem 0 0 1rem;line-height: 1.5rem;height: 1.5rem;margin: 0;}
-    p{font-size: 1.1rem;color: #b9b8b8;padding-left: 1rem;line-height: 1.8rem;@include en;padding-top: .5rem;
-        span{font-size: 1.3rem;}
-    }
-    a{display: block;border-right: 1px solid #e2e2e2;height: 100%;}
-}
-.pro-r{width: 60%;float: left;overflow: hidden;border-top: 1px solid #e2e2e2;border-bottom: 1px solid #e2e2e2;height: 16.5rem;}
-.pro1{overflow: hidden;padding: 0 1rem;border-bottom: 1px solid #e2e2e2;
-    div{width: 60%;float: left;}
-    h1{font-size: 1.3rem;border: none;padding: 1rem 0 0 0;line-height: 1.5rem;height: 1.5rem;margin: 0;}
-    p{font-size: 1.1rem;color: #b9b8b8;line-height: 1.8rem;padding-top: .5rem;}
-    img{width:40%;padding:.5rem 0;}
-}
-.pro2{overflow: hidden;width:50%;float: left;
-    h1{font-size: 1.3rem;border: none;padding: 1.5rem 0 0 1rem;line-height: 1.5rem;height: 1.5rem;margin: 0;}
-    p{font-size: 1.1rem;color: #b9b8b8;padding-left: 1rem;line-height: 1.8rem;}
-    img{padding-bottom: .5rem;}
-    a{display: block;border-right: 1px solid #e2e2e2;height: 100%;}
-}
-.pro3{overflow: hidden;padding: .5rem 0;width:50%;float: left;
-    h1{font-size: 1.3rem;border: none;padding: 1rem 0 0 1rem;line-height: 1.5rem;height: 1.5rem;margin: 0;}
-    p{font-size: 1.1rem;color: #b9b8b8;padding-left: 1rem;line-height: 1.8rem;}
-}
-.tab-list{text-align: center;margin-bottom: 1rem;
-    a{display: inline-block;padding: 0 1.14rem;height: 2.5rem;line-height: 2.5rem;font-size: 1.2rem;}
-    .this{background: $color;color: #fff;}
-}
-.tab-con{width: 100%;
-    .tab{width: 100%;}
-}
-.main3{background: #fff;margin:1.5rem 1rem;}
-.p-about{text-indent:28px;font-size: 1.15rem;}
-.advantage{height: 2.5rem;margin-bottom: 1rem;
-    span{display: inline-block;background: $color;text-align: center;line-height: 2.5rem;width: 2.5rem;color: #fff;margin-right: 1rem;}
-    p{display: inline-block;font-size: 1.2rem;}
-}
-.about{font-size: 1.2rem;line-height: 2.5rem;text-indent: 2rem;}
-.ab{font-size: 1rem;text-align: center;line-height: 1.8rem;}
+
+
 
 .bottom{
     .bottom-nav{background: #2d3e55;overflow: hidden;height: 3.5rem;
@@ -124,10 +86,10 @@ a{text-decoration:none;color:#2b2b2b;}
     p{font-size: 1.15rem;@include overflow;width: 80%;}
     i{font-size: 1.6rem;color: #f98c05;position: absolute;bottom: 0;right: 0;font-weight: bold;}
 }
-.title{margin: 0 1rem;
-    h1{font-size: 1.6rem;padding-top: 1rem;}
-    span{font-size: 1.2rem;color: $color;}
-    p{font-size: 1.2rem;padding-top: .5rem;}
+.title{margin:1rem 0 .5rem;text-align: center;
+    h1{font-size: 1.4rem;height:2rem;font-weight: normal;line-height:2rem;}
+    span{font-size: 1rem;}
+    p{font-size: 1.2rem;}
 }
 .tit-w{overflow: hidden;margin:.5rem 1rem;border-top: 1px solid #eee;padding-top: .5rem;
     .tit-c{float: left;width: 50%;
@@ -218,14 +180,13 @@ td,th{border:1px solid #d6d6d6;padding: 0 .2rem;}
 .icon-address:before { content: "\e614"; }
 .icon-group:before { content: "\e645"; }
 .icon-biaoxing:before { content: "\e733"; }
-.bottom-f{width: 100%;position: fixed;left: 0;bottom: 0;z-index: 999;background: #fff;border-top: 1px solid #e6e9ee;}
+.bottom-f{width: 100%;position: fixed;left: 0;bottom: 0;z-index: 999;background: #fff;border-top: 1px solid #e6e9ee;
+    img{width: 100%;}
+}
 .bottom-l{float: left;width: 25%;line-height: 20px;padding-top: 7px;}
 .bottom-l i{width:2rem;margin: 0 auto;text-align: center;display: block;}
 .bottom-l span{font-size: 13px;display: block;text-align: center;}
-.bot-a1{color: #ff800f;}
-.bot-a2{color: #3696ed;}
-.bot-a3{color: #f84267;}
-.bot-a4{color: #0977de;}
+.bot-a1{color: $color;}
 
 .hd{position: relative;}
 .hd:before{position: absolute;content: "1";top: 0;right: -4px;background:#bf0707;width: 10px;height: 10px;border-radius: 50%;color: #fff;text-align: center;font-size: 6px;line-height: 10px;}

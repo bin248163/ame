@@ -18,167 +18,90 @@
 </div>
 <div class="nav-index">
 	<div class="nav-x">
-		<a href="index.asp"><i><img src="images/n1_03.jpg" alt="" /></i> 首页</a>
+		<a href="index.asp"><i><img src="images/n1_05.jpg" alt="" /></i>纹绣</a>
 	</div>
 	<div class="nav-x">
-		<a href="list.asp"><i><img src="images/n2_03.jpg" alt="" /></i> 亚洲</a>
+		<a href="list.asp"><i><img src="images/n2_05.jpg" alt="" /></i>美牙</a>
 	</div>
 	<div class="nav-x">
-		<a href=""><i><img src="images/n3_03.jpg" alt="" /></i> 非洲</a>
+		<a href=""><i><img src="images/n3_05.jpg" alt="" /></i>编发</a>
 	</div>
 	<div class="nav-x">
-		<a href=""><i><img src="images/n4_03.jpg" alt="" /></i> 欧洲</a>
+		<a href=""><i><img src="images/n4_05.jpg" alt="" /></i>素描</a>
 	</div>
 	<div class="nav-x">
-		<a href=""><i><img src="images/n6_03.jpg" alt="" /></i> 南美洲</a>
+		<a href=""><i><img src="images/n5_05.jpg" alt="" /></i>化妆</a>
 	</div>
-	<div class="nav-x">
-		<a href=""><i><img src="images/n5_03.jpg" alt="" /></i> 北美洲</a>
-	</div>
-	<div class="nav-x">
-		<a href=""><i><img src="images/n7_03.jpg" alt="" /></i> 大洋洲</a>
-	</div>
-	<div class="nav-x">
-		<a href=""><i><img src="images/n8_03.jpg" alt="" /></i> 优势签证国家</a>
-	</div>
+</div>
+<div class="title">
+	<h1>艾米尔 培训特色</h1>
+	<span>훈련 특색</span>
+	<p>包教包会 学会为止</p>
 </div>
 <div class="main">
-	<h1>热门签证国家</h1>
-	<div class="con">
-		<div class="pro-l">
-			<a href="">
-				<h1>澳大利亚</h1>
-				<p><span>Australia</span><br /> 不仅国土辽阔，而且物产丰富</p>
-				<img src="images/p2_12.jpg" alt="" />
-			</a>
+	<img src="images/ts_09.jpg" alt="" style="width: 98%;margin: 0 1%;" />
+</div>
+<div class="title">
+	<h1>艾米尔 培训特色</h1>
+	<span>훈련 특색</span>
+	<p>包教包会 学会为止</p>
+</div>
+<div class="teacher">
+	<div class="teacher-n">
+		<div>
+			<span>项燕老师</span>
+			<img src="images/l1.jpg" alt="" />
 		</div>
-		<div class="pro-r">
-			<div class="pro1">
-				<a href="">
-					<div>
-						<h1>日本/Japan</h1>
-						<p>国名意为“日出之国”</p>
-					</div>
-					<img src="images/p1_09.jpg" alt="" />
-				</a>
-			</div>
-			<div class="pro2">
-				<a href="">
-					<div>
-						<h1>美国/America</h1>
-						<p>自由至上，勇于尝试</p>
-					</div>
-					<img src="images/p3_15.jpg" alt="" />
-				</a>
-			</div>
-			<div class="pro3">
-				<a href="">
-					<div>
-						<h1>希腊</h1>
-						<p>The Hellenic Republic</p>
-					</div>
-					<img src="images/p4_15.jpg" alt="" />
-				</a>
-			</div>
+		<div>
+			<span>倩倩老师</span>
+			<img src="images/l2.jpg" alt="" />
+		</div>
+		<div>
+			<span>李钇老师</span>
+			<img src="images/l3.jpg" alt="" />
+		</div>
+		<div>
+			<span>娜娜老师</span>
+			<img src="images/l4.jpg" alt="" />
+		</div>
+		<div>
+			<span>刘辽老师</span>
+			<img src="images/l5.jpg" alt="" />
 		</div>
 	</div>
+</div>
+<div class="title">
+	<h1>学员风采</h1>
+	<span>학생 스타일</span>
 </div>
 <div class="main">
-	<h1>优势签证国家</h1>
-	<div class="con">
-		<div class="swiper-container2">
-			<div class="swiper-wrapper">
-				<div class="swiper-slide">
-					<a href="" class="banner" style="background-image: url(images/ys1_20.jpg); height: 10rem;"></a>
-				</div>
-				<div class="swiper-slide">
-					<a href="" class="banner" style="background-image: url(images/ys1_20.jpg); height: 10rem;"></a>
-				</div>
-				<div class="swiper-slide">
-					<a href="" class="banner" style="background-image: url(images/ys1_20.jpg); height: 10rem;"></a>
-				</div>
-			</div>
-			<div class="swiper-pagination2 swiper-pagination"></div>
-		</div>
-	</div>
+	<img src="images/fc_16.jpg" alt="" style="width: 100%;" />
 </div>
-<div class="main1">
-	<h1>签证办理，快人一步</h1>
-	<h2>特价签证国家</h2>
-	<div class="list">
-		<a href="list-xx.asp">
-			<div>
-				<p>新西兰旅游签证</p>
-				<span>【专业代办】</span>
-			</div>
-			<img src="images/x_23.jpg" alt="" /></a>
-	</div>
-	<div class="list">
-		<a href="list-xx.asp">
-			<div>
-				<p>新西兰旅游签证</p>
-				<span>【专业代办】</span>
-			</div>
-			<img src="images/x_23.jpg" alt="" /></a>
-	</div>
-	<div class="list">
-		<a href="list-xx.asp">
-			<div>
-				<p>新西兰旅游签证</p>
-				<span>【专业代办】</span>
-			</div>
-			<img src="images/x_23.jpg" alt="" /></a>
-	</div>
-	<div class="list">
-		<a href="list-xx.asp">
-			<div>
-				<p>新西兰旅游签证</p>
-				<span>【专业代办】</span>
-			</div>
-			<img src="images/x_23.jpg" alt="" /></a>
-	</div>
-	<div class="list">
-		<a href="list-xx.asp">
-			<div>
-				<p>新西兰旅游签证</p>
-				<span>【专业代办】</span>
-			</div>
-			<img src="images/x_23.jpg" alt="" /></a>
-	</div>
-	<div class="list">
-		<a href="list-xx.asp">
-			<div>
-				<p>新西兰旅游签证</p>
-				<span>【专业代办】</span>
-			</div>
-			<img src="images/x_23.jpg" alt="" /></a>
-	</div>
-	<div class="list">
-		<a href="list-xx.asp">
-			<div>
-				<p>新西兰旅游签证</p>
-				<span>【专业代办】</span>
-			</div>
-			<img src="images/x_23.jpg" alt="" /></a>
-	</div>
-	<div class="list">
-		<a href="list-xx.asp">
-			<div>
-				<p>新西兰旅游签证</p>
-				<span>【专业代办】</span>
-			</div>
-			<img src="images/x_23.jpg" alt="" /></a>
-	</div>
-	<div class="list">
-		<a href="list-xx.asp">
-			<div>
-				<p>新西兰旅游签证</p>
-				<span>【专业代办】</span>
-			</div>
-			<img src="images/x_23.jpg" alt="" /></a>
-	</div>
+<div class="title">
+	<h1>学员评价</h1>
+	<span>학생 평가</span>
 </div>
 
+	<div class="main">
+		<img src="images/pj_19.jpg" alt="" style="width: 100%;" />
+	</div>
+
+<div class="title">
+	<h1>机构展示</h1>
+	<span>전시 기구</span>
+	<p>真实 可靠 实在</p>
+</div>
+<div class="main">
+	<img src="images/zs_22.jpg" alt="" style="width: 100%;" />
+</div>
+<div class="title">
+	<h1>关于我们</h1>
+	<span>정보우리</span>
+	<p>专业 优质 保障</p>
+</div>
+<div class="main">
+	<img src="images/ab_25.jpg" alt="" style="width: 100%;" />
+</div>
 <!--#include file="bottom.asp"-->
 <script type="text/javascript">
 	function curNav(num) {
