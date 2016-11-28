@@ -26,13 +26,13 @@
 						<a href="index.asp">首页</a>
 					</li>
 					<li>
-						<a href="about.asp">师资团队</a>
+						<a href="about.asp">关于我们</a>
 					</li>
 					<li>
-						<a href="news.asp">学员风采</a>
+						<a href="xueyuan.asp">学员风采</a>
 					</li>
 					<li>
-						<a href="news.asp">机构展示</a>
+						<a href="jigou.asp">机构展示</a>
 					</li>
 					<li>
 						<a href="content.asp">联系我们</a>
