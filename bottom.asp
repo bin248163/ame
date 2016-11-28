@@ -33,7 +33,7 @@
 					<a href="">学员风采</a>
 				</li>
 				<li>
-					<a href="">机构展示</a>
+					<a href="">公司展示</a>
 				</li>
 			</ul>
 		</div>

@@ -81,9 +81,7 @@
 	</div>
 </div>
 
-<div class="w-1000">
-	<img src="images/sd_12.jpg" alt="" />
-</div>
+
 <!--#include file="bottom.asp"-->
 <script type="text/javascript">
 	function curNav(num) {

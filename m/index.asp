@@ -1,6 +1,6 @@
 <!--#include file="top.asp"-->
 
-<div class="banner-w">
+<div class="banner-w" style="display: none;">
 	<div class="swiper-container">
 		<div class="swiper-wrapper">
 			<div class="swiper-slide">
@@ -16,7 +16,7 @@
 		<div class="swiper-pagination"></div>
 	</div>
 </div>
-<div class="nav-index">
+<div class="nav-index" style="display: none;">
 	<div class="nav-x">
 		<a href="index.asp"><i><img src="images/n1_05.jpg" alt="" /></i>纹绣</a>
 	</div>
@@ -87,7 +87,7 @@
 	</div>
 
 <div class="title">
-	<h1>机构展示</h1>
+	<h1>公司展示</h1>
 	<span>전시 기구</span>
 	<p>真实 可靠 实在</p>
 </div>

@@ -52,45 +52,17 @@
 			<h2>这里有最新的公司动态，这里有最新的韩式半永久化妆知识解答...</h2>
 		</div>
 		<div class="ne1">
-			<h1><a href="news-xx.asp">西安艾米尔韩式半永久的优势有哪些？</a></h1>
+			<h1><a href="news-xx.asp">艾米尔的优势有哪些？</a></h1>
 			<a href="news-xx.asp"><img src="images/ne1_05.jpg" alt="" /></a>
 			<div>				
-				<p>为什么选择韩式半永久定妆?有什么优势?西安艾米尔形象设计有限公司，是西安劳动局、西安美容协会批准的培训单位，学校已为社会培养和输送了多名优秀的美容师，深受相关各界好评。我们将继续以“继承... 				
+				<p>为什么选择韩式半永久定妆?有什么优势?西安艾米尔形象设计有限公司，是西安劳动局、西安美容协会批准的培训单位，已为社会培养和输送了多名优秀的美容师，深受相关各界好评。我们将继续以“继承... 				
 				</p>
 				<span>2016-01-11</span>
 				<a href="news-xx.asp" class="n_more">查看详情>></a>
 			</div>			
 		</div>
-		<div class="ne1">
-			<h1><a href="news-xx.asp">西安艾米尔韩式半永久的优势有哪些？</a></h1>
-			<a href="news-xx.asp"><img src="images/ne1_05.jpg" alt="" /></a>
-			<div>				
-				<p>为什么选择韩式半永久定妆?有什么优势?西安艾米尔形象设计有限公司，是西安劳动局、西安美容协会批准的培训单位，学校已为社会培养和输送了多名优秀的美容师，深受相关各界好评。我们将继续以“继承... 				
-				</p>
-				<span>2016-01-11</span>
-				<a href="news-xx.asp" class="n_more">查看详情>></a>
-			</div>			
-		</div>
-		<div class="ne1">
-			<h1><a href="news-xx.asp">西安艾米尔韩式半永久的优势有哪些？</a></h1>
-			<a href="news-xx.asp"><img src="images/ne1_05.jpg" alt="" /></a>
-			<div>				
-				<p>为什么选择韩式半永久定妆?有什么优势?西安艾米尔形象设计有限公司，是西安劳动局、西安美容协会批准的培训单位，学校已为社会培养和输送了多名优秀的美容师，深受相关各界好评。我们将继续以“继承... 				
-				</p>
-				<span>2016-01-11</span>
-				<a href="news-xx.asp" class="n_more">查看详情>></a>
-			</div>			
-		</div>
-		<div class="ne1">
-			<h1><a href="">西安艾米尔韩式半永久的优势有哪些？</a></h1>
-			<a href=""><img src="images/ne1_05.jpg" alt="" /></a>
-			<div>				
-				<p>为什么选择韩式半永久定妆?有什么优势?西安艾米尔形象设计有限公司，是西安劳动局、西安美容协会批<br />准的培训单位，学校已为社会培养和输送了多名优秀的美容师，深受相关各界好评。我们将继续以“继承... 				
-				</p>
-				<span>2016-01-11</span>
-				<a href="" class="n_more">查看详情>></a>
-			</div>			
-		</div>
+		
+		
 		<div class="paging">
 					<a href="" class="paga">首页</a>
 					<a href="" class="paga">下一页</a>

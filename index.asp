@@ -1,6 +1,6 @@
 <!--#include file="top.asp"-->
 <div class="w-100">
-	<div id="banner_tabs" class="flexslider">
+	<div id="banner_tabs" class="flexslider" style="display: none;">
 		<ul class="slides">
 			<li>
 				<a href="#"><img style="background: url(images/banner1_02.jpg) no-repeat center;" /></a>
@@ -90,14 +90,14 @@
 							<i class="i3"></i>
 						</div>
 						<h1>终身免费进修</h1>
-						<p>随时可以返回学校免费进修所学专业的新技术，一次学习终身免费升级。</p>
+						<p>随时可以返回公司免费进修所学专业的新技术，一次学习终身免费升级。</p>
 					</div>
 					<div class="s-25">
 						<div class="i-w">
 							<i class="i4"></i>
 						</div>
 						<h1>尊享优惠，创业支持</h1>
-						<p>学习第2专业学费85折优惠（艾米尔优惠政策），全程支持鼓励学员创业。</p>
+						<p>全程支持鼓励学员创业。</p>
 					</div>
 				</div>
 				<div class="tab-con">
@@ -405,7 +405,7 @@
 		</div>
 		<div class="news mr-15 mb-10">
 			<h3 class="h3">公司新闻__</h3>
-			<img src="images/news1_13.jpg" alt="" />
+			<img src="images/news3_13.jpg" alt="" />
 			<ul>
 				<li><i></i>
 					<a href="">公司新闻</a><span>[7/11]</span></li>
