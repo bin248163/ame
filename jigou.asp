@@ -5,7 +5,7 @@
 <div class="sz">
 	<div class="w-1000">
 		<p class="sz1">
-			<a href="">首页</a> > 机构展示</p>
+			<a href="">首页</a> > 公司展示</p>
 	</div>
 	<div class="w-100">
 	<div class="title">

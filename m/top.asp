@@ -20,7 +20,10 @@
 			<div class="header">
 				<div class="logo"><a href="index.asp"><img src="images/logo_03.jpg" alt="" /></a></div>
 			</div>
-			<div class="nav" id="nav">
+			<div class="nav-w">
+				<i>></i>
+				<div class="nav" id="nav">
+				
 				<ul>
 					<li>
 						<a href="index.asp">首页</a>
@@ -32,7 +35,10 @@
 						<a href="xueyuan.asp">学员风采</a>
 					</li>
 					<li>
-						<a href="jigou.asp">机构展示</a>
+						<a href="xueyuan.asp">学员风采</a>
+					</li>
+					<li>
+						<a href="jigou.asp">公司展示</a>
 					</li>
 					<li>
 						<a href="content.asp">联系我们</a>
@@ -40,3 +46,5 @@
 					
 				</ul>
 			</div>
+			</div>
+			
