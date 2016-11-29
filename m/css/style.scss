@@ -82,7 +82,18 @@ a{text-decoration:none;color:#2b2b2b;}
     }
     &:-webkit-scrollbar{width:0;height:0}
 }
-
+.teacher-n{padding:1rem .5rem;overflow: hidden;background: #fff;margin: 1rem 0;
+    .teacher-l{float: left;width: 40%;
+        img{width: 100%;}
+    }
+    .teacher-r{float: right;width:57%;
+        h1{font-size: 1.3rem;background-image:url(../images/tea_05.jpg);background-position: bottom left;background-repeat: no-repeat;background-size: 40% auto; }
+        span{border: 1px solid #d8d8d8;display: inline-block;padding:0 .5rem;margin: .8rem 0;}
+        ul{
+            li{font-size: 1.1rem;line-height: 2.2rem;}
+        }
+    }
+}
 
 
 .bottom{
@@ -122,7 +133,7 @@ a{text-decoration:none;color:#2b2b2b;}
 .position1{font-size: 1.4rem;margin-top: 1rem;padding: 1rem 1rem 0;line-height: 3rem;background: #f9f7f8;
     span{color:#6e1c06;}
 }
-.position{font-size: 1.2rem;padding: 0 1rem 1rem;line-height: 3rem;background: #f9f7f8;
+.position{font-size: 1.2rem;padding: 0 1rem;line-height: 3rem;background: #f9f7f8;
     a{color: $color;}
     span{float: right;font-size: 1.2rem;}
 }
