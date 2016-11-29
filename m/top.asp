@@ -38,7 +38,7 @@
 						<a href="xueyuan.asp">学员风采</a>
 					</li>
 					<li>
-						<a href="jigou.asp">公司展示</a>
+						<a href="jigou.asp">机构展示</a>
 					</li>
 					<li>
 						<a href="content.asp">联系我们</a>

@@ -18,16 +18,16 @@
 </div>
 <div class="nav-index">
 	<div class="nav-x">
-		<a href="index.asp"><i><img src="images/n1_05.jpg" alt="" /></i>纹绣</a>
+		<a href="wenxiu.asp"><i><img src="images/n1_05.jpg" alt="" /></i>纹绣</a>
 	</div>
 	<div class="nav-x">
 		<a href="list.asp"><i><img src="images/n2_05.jpg" alt="" /></i>美牙</a>
 	</div>
 	<div class="nav-x">
-		<a href=""><i><img src="images/n3_05.jpg" alt="" /></i>编发</a>
+		<a href="bianfa.asp"><i><img src="images/n3_05.jpg" alt="" /></i>编发</a>
 	</div>
 	<div class="nav-x">
-		<a href=""><i><img src="images/n4_05.jpg" alt="" /></i>素描</a>
+		<a href=""><i><img src="images/n4_05.jpg" alt="" /></i>美甲</a>
 	</div>
 	<div class="nav-x">
 		<a href=""><i><img src="images/n5_05.jpg" alt="" /></i>化妆</a>
