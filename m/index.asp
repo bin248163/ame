@@ -86,13 +86,32 @@
 		<img src="images/pj_19.jpg" alt="" style="width: 100%;" />
 	</div>
 
-<div class="title" style="display: none;">
+<div class="title">
 	<h1>公司展示</h1>
 	<span>전시 기구</span>
 	<p>真实 可靠 实在</p>
 </div>
 <div class="main">
-	<img src="images/zs_22.jpg" alt="" style="width: 100%;" />
+	<div class="zs">
+	<div class="zs-n">
+		<div>
+			<span>荣誉证书</span>
+			<img src="images/xy1_03.jpg" alt="" />
+		</div>
+		<div>
+			<span>半永久比赛</span>
+			<img src="images/xy2_03.jpg" alt="" />
+		</div>
+		<div>
+			<span>上课展示</span>
+			<img src="images/xy3_03.jpg" alt="" />
+		</div>
+		<div>
+			<span>公司展示</span>
+			<img src="images/xy4_03.jpg" alt="" />
+		</div>
+	</div>
+</div>
 </div>
 <div class="title">
 	<h1>关于我们</h1>
@@ -100,7 +119,7 @@
 	<p>专业 优质 保障</p>
 </div>
 <div class="main">
-	<img src="images/ab_25.jpg" alt="" style="width: 100%;" />
+	<img src="images/ab_07.jpg" alt="" style="width: 100%;" />
 </div>
 <!--#include file="bottom.asp"-->
 <script type="text/javascript">

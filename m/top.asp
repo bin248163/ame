@@ -21,7 +21,7 @@
 				<div class="logo"><a href="index.asp"><img src="images/logo_03.jpg" alt="" /></a></div>
 			</div>
 			<div class="nav-w">
-				<i>></i>
+				<i></i>
 				<div class="nav" id="nav">
 				
 				<ul>
@@ -32,7 +32,7 @@
 						<a href="about.asp">关于我们</a>
 					</li>
 					<li>
-						<a href="xueyuan.asp">学员风采</a>
+						<a href="teacher.asp">师资团队</a>
 					</li>
 					<li>
 						<a href="xueyuan.asp">学员风采</a>
