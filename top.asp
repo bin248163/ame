@@ -26,9 +26,9 @@
 				<li><a href="meijia.asp">美甲</a></li>
 				<li><a href="bianfa.asp">编发</a></li>
 				<li><a href="meizhuang.asp">化妆</a></li>
-				<li><a href="teacher.asp">公司团队</a></li>
+				<li><a href="teacher.asp">师资团队</a></li>
 				<li><a href="xueyuan.asp">学员风采</a></li>
-				<li><a href="jigou.asp">公司展示</a></li>
+				<li><a href="jigou.asp">机构展示</a></li>
 				<li><a href="news.asp">动态新闻</a></li>
 				<li><a href="contact.asp">联系我们</a></li>
 			</ul>
